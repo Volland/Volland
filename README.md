@@ -31,7 +31,8 @@ You could find me
 - [@vpavlyshyn@fosstodon.org mastodon](https://fosstodon.org/deck/@vpavlyshyn)
 - Nostr: npub1u6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8sus3tnd7t
 
-
+I do typescript,recact,js,rust. Could work with wide range of JVM languages like Kotlin, scala , java , clojure 
+I keen on system programing and crypto with Rust , zig and C
 
 
 
