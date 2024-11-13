@@ -17,13 +17,14 @@ Hey I am Volodymyr
 Seasoned Developer's Journey from COBOL to Web 5.0, SSI, and Beyond
 
 
- As a seasoned developer with over 20 years of experience, I have dabbled in various programming languages, including some that are considered "dead," such as COBOL and Smalltalk. However, my passion for innovation and embracing cutting-edge technology has led me to focus on the emerging fields of Web 5.0, Self-Sovereign Identity (SSI), and the architecture of a decentralized world that empowers data democratization.
+ As a seasoned developer with over 20+ years of experience, I have dabbled in various programming languages, including some that are considered "dead," such as COBOL and Smalltalk. However, my passion for innovation and embracing cutting-edge technology has led me to focus on the emerging fields of Web 5.0, Self-Sovereign Identity (SSI),AI Agents, Knowledge Graphs , Agentiic memory systems and the architecture of a decentralized world that empowers data democratization.
 
 
 A strong believer in the potential of actor systems and the concept of a "soft" internet, I am dedicated to exploring and promoting these transformative ideas. In addition to writing, I also enjoy sharing my knowledge and insights through videoblogging. Most of my Medium posts serve as supplementary content to the videos on my YouTube channel, which you can explore here: https://www.youtube.com/c/VolodymyrPavlyshyn. 
 Join me on this exciting journey as we delve into the future of technology and the possibilities it holds.
 
 You could find me 
+- [LinkedIn](https://www.linkedin.com/in/pavlyshyn/)
 - [Youtube](https://www.youtube.com/c/VolodymyrPavlyshyn)
 - [Medium](https://medium.com/@volodymyrpavlyshyn)
 - [MakerTube](https://makertube.net/c/ssiteatalks/videos)
