@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hey I am Volodymyr 
 
-Seasoned Developer's Journey from COBOL to Web 5.0, SSI, and Beyond
+Seasoned Developer's Journey from COBOL to Web 5.0, SSI, Privacy first edge AI and Beyond
 
 
  As a seasoned developer with over 20+ years of experience, I have dabbled in various programming languages, including some that are considered "dead," such as COBOL and Smalltalk. However, my passion for innovation and embracing cutting-edge technology has led me to focus on the emerging fields of Web 5.0, Self-Sovereign Identity (SSI),AI Agents, Knowledge Graphs , Agentiic memory systems and the architecture of a decentralized world that empowers data democratization.
