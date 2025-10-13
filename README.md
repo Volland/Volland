@@ -21,6 +21,14 @@ Seasoned Developer's Journey from COBOL to Web 5.0, SSI, Privacy first edge AI a
 
 
 A strong believer in the potential of actor systems and the concept of a "soft" internet, I am dedicated to exploring and promoting these transformative ideas. In addition to writing, I also enjoy sharing my knowledge and insights through videoblogging. Most of my Medium posts serve as supplementary content to the videos on my YouTube channel, which you can explore here: https://www.youtube.com/c/VolodymyrPavlyshyn. 
+
+I am also an author of books [my author page](https://leanpub.com/u/vpavlyshyn)
+   - [Semantic Space Time for AI Agent Ready Graphs](https://leanpub.com/sst-4-agenticai)
+   - [Edge AI : Pocket Knowledge Graphs on user device](https://leanpub.com/time-aware-ai-memory) 
+
+
+
+
 Join me on this exciting journey as we delve into the future of technology and the possibilities it holds.
 
 You could find me 
