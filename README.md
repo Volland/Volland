@@ -1,47 +1,67 @@
-<!--
-**Volland/Volland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Volodymyr 👋
 
-Here are some ideas to get you started:
+**23+ years building software — from COBOL and Smalltalk to Rust, Agentic Memory, and Sovereign AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hey I am Volodymyr 
+I work on **agentic memory architectures**, **world models for AI agents**, and **secure/sovereign agents** — all grounded in embedded graph databases and edge-first, privacy-first principles.
 
-Seasoned Developer's Journey from COBOL to Web 5.0, SSI, Privacy first edge AI and Beyond
+My tools: [LadybugDB](https://ladybugdb.com/) (embedded columnar graph database), Semantic Spacetime ontologies, Promise Graphs, and Hybrid Graph RAG. I believe AI agents should own their memory, run on the device, and never depend on a cloud service to think.
 
+---
 
- As a seasoned developer with over 20+ years of experience, I have dabbled in various programming languages, including some that are considered "dead," such as COBOL and Smalltalk. However, my passion for innovation and embracing cutting-edge technology has led me to focus on the emerging fields of Web 5.0, Self-Sovereign Identity (SSI),AI Agents, Knowledge Graphs , Agentiic memory systems and the architecture of a decentralized world that empowers data democratization.
+### 🧠 Current Focus
 
+- **Agentic Memory** — Multi-layered memory architectures (episodic, semantic, procedural) built on knowledge graphs. Cognitive extraction-consolidation pipelines. Memory that supports causal reasoning, not just retrieval
+- **World Models for AI Agents** — Structured representations of the environment an agent reasons about to make decisions
+- **Secure & Sovereign Agents** — Self-sovereign identity (DIDs, KERI, Verifiable Credentials), agent-owned credentials, trust without centralized authority
+- **Edge AI & Embedded Graphs** — Local-first, privacy-first. Graph databases that ship as a single file and run in-process. No server, no network hop, no data leaving the device
 
-A strong believer in the potential of actor systems and the concept of a "soft" internet, I am dedicated to exploring and promoting these transformative ideas. In addition to writing, I also enjoy sharing my knowledge and insights through videoblogging. Most of my Medium posts serve as supplementary content to the videos on my YouTube channel, which you can explore here: https://www.youtube.com/c/VolodymyrPavlyshyn. 
+### 🐞 Projects
 
-I am also an author of books [my author page](https://leanpub.com/u/vpavlyshyn)
-   - [Semantic Space Time for AI Agent Ready Graphs](https://leanpub.com/sst-4-agenticai)
-   - [Edge AI : Pocket Knowledge Graphs on user device](https://leanpub.com/time-aware-ai-memory) 
+- **[LadybugDB](https://github.com/LadybugDB/ladybug)** — Embedded columnar graph database (Kùzu fork), built for agentic memory in regulated industries
+- **[Hybrid Graph RAG (Rust)](https://github.com/Volland/ladybug-rag-rs)** — Four retrieval modes in one query: vector search + graph traversal + PageRank + community detection. +109% on multi-hop questions vs vector-only RAG
+- **[Hybrid Graph RAG (Python)](https://github.com/Volland/ladybug-rag)** — Reference implementation of Hybrid GraphRAG with LadybugDB
+- **[Icebug](https://github.com/Ladybug-Memory/icebug)** — 200+ graph algorithms with OpenMP parallelism and Apache Arrow integration (NetworKit fork)
 
+### 📚 Books
 
+I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
 
+| | |
+|---|---|
+| 🌍 [World Models for AI Agents](https://leanpub.com/agenticworldmodels) | 🐞 [LadybugDB for Edge Agent AI Memory](https://leanpub.com/ladybugdb) |
+| 🦆 [GraphDuck: DuckDB for Embedded AI Agents and Graphs](https://leanpub.com/graphduck) | 🔗 [Beyond Context Graphs: Agentic Memory, Cognitive Processes, and Promise Graphs](https://leanpub.com/beyondcontextgraphs) |
+| ⏳ [Semantic Space Time for AI Agent Ready Graphs](https://leanpub.com/sst-4-agenticai) | 🕰️ [Temporal Aware AI Memory](https://leanpub.com/time-aware-ai-memory) |
+| 📱 [Edge AI: Pocket Knowledge Graphs on User Device](https://leanpub.com/edgeai-pocket-knowledgegraphs-on-user-device) | 🧠 [AI Agents Memory Empowered by Knowledge Graphs](https://leanpub.com/ai-agents-memory) |
+| 🔐 [Sovereign AI Agents](https://leanpub.com/sovereign-ai-agents) *(in progress)* | 🧮 [Dependent Types & Logic for AI Agent Ready Knowledge Graphs](https://leanpub.com/dependenttypesdttlogicholforaiagentreadyknowledgegraphs) |
+| 🗡️ [Cypher 103 with LadybugDB](https://leanpub.com/cypher103withladybugdb) | 🔮 [Metagraph for AI Agents](https://leanpub.com/metagraphforaiagents) |
+| 💾 [TypeDB for Edge AI Agents](https://leanpub.com/typedbforedgeaiagents) | 🤔 [Philosophical Wednesdays with AI Powered Architect](https://leanpub.com/philosophical-wednesdays-with-ai-powered-architect) |
 
-Join me on this exciting journey as we delve into the future of technology and the possibilities it holds.
+🇺🇦 I also write a Ukrainian children's book series: [Макс, Цугі і світло, яке чутно](https://leanpub.com/max-tsugi-and-old-radio)
 
-You could find me 
-- [LinkedIn](https://www.linkedin.com/in/pavlyshyn/)
-- [Youtube](https://www.youtube.com/c/VolodymyrPavlyshyn)
-- [Medium](https://medium.com/@volodymyrpavlyshyn)
-- [MakerTube](https://makertube.net/c/ssiteatalks/videos)
-- [Yakihhone](https://yakihonne.com/users/nprofile1qqswdqt52wvwgnpw6el3z6szhj09843a0hj7kfsrjgjys6qpkzkrcwgpr3mhxue69uhkummnw3ez6vp39eukz6mfdphkumn99e3k7mgpr3mhxue69uhkummnw3ez6vpj9eukz6mfdphkumn99e3k7mgpremhxue69uhkummnw3ez6vpn9ejx7unpveskxar0wfujummjvuq3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k7qg7waehxw309ahx7um5wgknqv3wv3hhyctxv93hgmmj0yhx7un8uyjmtl)
-- [@vpavlyshyn@fosstodon.org mastodon](https://fosstodon.org/deck/@vpavlyshyn)
-- Nostr: npub1u6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8sus3tnd7t
+### 🛠️ Tech Stack
 
-I do typescript,recact,js,rust. Could work with wide range of JVM languages like Kotlin, scala , java , clojure 
-I keen on system programing and crypto with Rust , zig and C
+**Primary:** Rust, TypeScript, React, JavaScript  
+**JVM:** Kotlin, Scala, Java, Clojure  
+**Systems & Crypto:** Rust, Zig, C  
+**Formative:** Smalltalk (Pharo, Cuis, Self), COBOL — these shaped how I think about objects, agents, and message-passing
 
+### 📝 Writing & Content
 
+- [Substack — Sovereign Agentic AI](https://volodymyrpavlyshyn.substack.com/) — deep dives on agentic memory, world models, LadybugDB, Hybrid RAG
+- [Medium](https://medium.com/@volodymyrpavlyshyn) — technical articles
+- [YouTube](https://www.youtube.com/c/VolodymyrPavlyshyn) — video content
 
+### 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlyshyn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavlyshyn/)
+[![YouTube](https://img.shields.io/badge/YouTube-Volodymyr_Pavlyshyn-red?style=flat&logo=youtube)](https://www.youtube.com/c/VolodymyrPavlyshyn)
+[![Substack](https://img.shields.io/badge/Substack-Sovereign_Agentic_AI-orange?style=flat&logo=substack)](https://volodymyrpavlyshyn.substack.com/)
+[![Medium](https://img.shields.io/badge/Medium-@volodymyrpavlyshyn-black?style=flat&logo=medium)](https://medium.com/@volodymyrpavlyshyn)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@vpavlyshyn-purple?style=flat&logo=mastodon)](https://fosstodon.org/deck/@vpavlyshyn)
+[![MakerTube](https://img.shields.io/badge/MakerTube-SSI_Tea_Talks-green?style=flat)](https://makertube.net/c/ssiteatalks/videos)
+
+**Nostr:** `npub1u6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8sus3tnd7t`
+
+---
+
+*The next generation of AI will not simply compute. It will remember.*
