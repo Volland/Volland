@@ -17,11 +17,8 @@ My tools: [LadybugDB](https://ladybugdb.com/) (embedded columnar graph database)
 
 ### 🐞 Projects
 
-- **[LadybugDB](https://github.com/LadybugDB/ladybug)** — Embedded columnar graph database (Kùzu fork), built for agentic memory in regulated industries
 - **[Hybrid Graph RAG (Rust)](https://github.com/Volland/ladybug-rag-rs)** — Four retrieval modes in one query: vector search + graph traversal + PageRank + community detection. +109% on multi-hop questions vs vector-only RAG
 - **[Hybrid Graph RAG (Python)](https://github.com/Volland/ladybug-rag)** — Reference implementation of Hybrid GraphRAG with LadybugDB
-- **[Icebug](https://github.com/Ladybug-Memory/icebug)** — 200+ graph algorithms with OpenMP parallelism and Apache Arrow integration (NetworKit fork)
-
 ### 📚 Books
 
 I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
