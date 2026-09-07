@@ -4,7 +4,6 @@
 
 I work on **agentic memory architectures**, **world models for AI agents**, and **secure/sovereign agents** — all grounded in embedded graph databases and edge-first, privacy-first principles.
 
-My tools: [LadybugDB](https://ladybugdb.com/) (embedded columnar graph database), Semantic Spacetime ontologies, Promise Graphs, and Hybrid Graph RAG. I believe AI agents should own their memory, run on the device, and never depend on a cloud service to think.
 
 ---
 
@@ -17,8 +16,12 @@ My tools: [LadybugDB](https://ladybugdb.com/) (embedded columnar graph database)
 
 ### 🐞 Projects
 
+- **[Factum](https://www.factum-orm.com/)** — Object-Role Modeling (ORM 2) as a VS Code extension. Draw a conceptual schema, read it back as plain-language sentences a domain expert can confirm, and map it to relational (SQL) or property graph (LadybugDB) schemas. Ships an MCP server (`factum-mcp`) and a CLI (`validate`, `verbalize`, `diff`, `drift`, `derive`) so coding agents read the conceptual model instead of guessing it from column names. MIT licensed — [source on GitHub](https://github.com/Volland/factum-orm)
+- **[LPG Modeler](https://www.lpg-modeler.com/)** — VS Code extension for labeled property graph schemas. Author one YAML model on a canvas (with proper inheritance vs. mixins) and generate LadybugDB DDL, Neo4j constraints, SHACL shapes, and an OWL ontology from it — with everything a target can't enforce reported as a diagnostic instead of silently dropped. Checkable in CI. MIT licensed — [source on GitHub](https://github.com/Volland/lpg-modeler)
+- **[Causal Canvas](https://www.casualcanvas.org/)** — Visual editor for causal models (DAGs, ADMGs, PAGs, causal loop diagrams) backed by a JSON-native format (CausalJSON) and a CLI. Includes a causal linter that catches collider adjustment, invalid instruments, and unidentifiable latents, plus reproducible SVG/PDF figure generation for CI. Fully local, no telemetry. Apache-2.0 — [source on GitHub](https://github.com/Volland/causal-canvas)
 - **[Hybrid Graph RAG (Rust)](https://github.com/Volland/ladybug-rag-rs)** — Four retrieval modes in one query: vector search + graph traversal + PageRank + community detection. +109% on multi-hop questions vs vector-only RAG
 - **[Hybrid Graph RAG (Python)](https://github.com/Volland/ladybug-rag)** — Reference implementation of Hybrid GraphRAG with LadybugDB
+
 ### 📚 Books
 
 I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
@@ -32,6 +35,7 @@ I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
 | 🔐 [Sovereign AI Agents](https://leanpub.com/sovereign-ai-agents) *(in progress)* | 🧮 [Dependent Types & Logic for AI Agent Ready Knowledge Graphs](https://leanpub.com/dependenttypesdttlogicholforaiagentreadyknowledgegraphs) |
 | 🗡️ [Cypher 103 with LadybugDB](https://leanpub.com/cypher103withladybugdb) | 🔮 [Metagraph for AI Agents](https://leanpub.com/metagraphforaiagents) |
 | 💾 [TypeDB for Edge AI Agents](https://leanpub.com/typedbforedgeaiagents) | 🤔 [Philosophical Wednesdays with AI Powered Architect](https://leanpub.com/philosophical-wednesdays-with-ai-powered-architect) |
+| 📐 [Fact-Based Agents](https://leanpub.com/fact-basedagents) — why coding agents reconstruct your domain from schemas and code, and what an ORM 2 conceptual schema gives them instead | |
 
 🇺🇦 I also write a Ukrainian children's book series: [Макс, Цугі і світло, яке чутно](https://leanpub.com/max-tsugi-and-old-radio)
 
@@ -49,7 +53,7 @@ I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
 - [YouTube](https://www.youtube.com/c/VolodymyrPavlyshyn) — video content
 
 ### 🌐 Find Me
-
+[![Website](https://www.pavlyshyn.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlyshyn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavlyshyn/)
 [![YouTube](https://img.shields.io/badge/YouTube-Volodymyr_Pavlyshyn-red?style=flat&logo=youtube)](https://www.youtube.com/c/VolodymyrPavlyshyn)
 [![Substack](https://img.shields.io/badge/Substack-Sovereign_Agentic_AI-orange?style=flat&logo=substack)](https://volodymyrpavlyshyn.substack.com/)
