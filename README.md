@@ -55,7 +55,9 @@ I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
 - [YouTube](https://www.youtube.com/c/VolodymyrPavlyshyn) — video content
 
 ### 🌐 Find Me
-[![Website](https://www.pavlyshyn.me)
+[🌐 https://www.pavlyshyn.me](https://www.pavlyshyn.me)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavlyshyn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavlyshyn/)
 [![YouTube](https://img.shields.io/badge/YouTube-Volodymyr_Pavlyshyn-red?style=flat&logo=youtube)](https://www.youtube.com/c/VolodymyrPavlyshyn)
 [![Substack](https://img.shields.io/badge/Substack-Sovereign_Agentic_AI-orange?style=flat&logo=substack)](https://volodymyrpavlyshyn.substack.com/)
