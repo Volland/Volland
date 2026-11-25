@@ -41,10 +41,11 @@ I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
 | 🦆 [GraphDuck: DuckDB for Embedded AI Agents and Graphs](https://leanpub.com/graphduck) | 🔗 [Beyond Context Graphs: Agentic Memory, Cognitive Processes, and Promise Graphs](https://leanpub.com/beyondcontextgraphs) |
 | ⏳ [Semantic Space Time for AI Agent Ready Graphs](https://leanpub.com/sst-4-agenticai) | 🕰️ [Temporal Aware AI Memory](https://leanpub.com/time-aware-ai-memory) |
 | 📱 [Edge AI: Pocket Knowledge Graphs on User Device](https://leanpub.com/edgeai-pocket-knowledgegraphs-on-user-device) | 🧠 [AI Agents Memory Empowered by Knowledge Graphs](https://leanpub.com/ai-agents-memory) |
-| 🔐 [Sovereign AI Agents](https://leanpub.com/sovereign-ai-agents) *(in progress)* | 🧮 [Dependent Types & Logic for AI Agent Ready Knowledge Graphs](https://leanpub.com/dependenttypesdttlogicholforaiagentreadyknowledgegraphs) |
+| 🛡️ [Bulletproof Knowledge](https://leanpub.com/bulletproofknowledge-aiagents) | 🧮 [Dependent Types & Logic for AI Agent Ready Knowledge Graphs](https://leanpub.com/dependenttypesdttlogicholforaiagentreadyknowledgegraphs) |
 | 🗡️ [Cypher 103 with LadybugDB](https://leanpub.com/cypher103withladybugdb) | 🔮 [Metagraph for AI Agents](https://leanpub.com/metagraphforaiagents) |
 | 💾 [TypeDB for Edge AI Agents](https://leanpub.com/typedbforedgeaiagents) | 🤔 [Philosophical Wednesdays with AI Powered Architect](https://leanpub.com/philosophical-wednesdays-with-ai-powered-architect) |
-| 📐 [Fact-Based Agents](https://leanpub.com/fact-basedagents) — why coding agents reconstruct your domain from schemas and code, and what an ORM 2 conceptual schema gives them instead | |
+| 📐 [Fact-Based Agents](https://leanpub.com/fact-basedagents) — why coding agents reconstruct your domain from schemas and code, and what an ORM 2 conceptual schema gives them instead | 🧬 [Neurosymbolic AI (bundle)](https://leanpub.com/b/neurosymbolicai) |
+| 📗 [Little Leaner](https://leanpub.com/littleleaner) | 📙 [Little Elpier](https://leanpub.com/littleelpier) |
 
 🇺🇦 I also write a Ukrainian children's book series: [Макс, Цугі і світло, яке чутно](https://leanpub.com/max-tsugi-and-old-radio)
 
