@@ -23,6 +23,12 @@ I work on **agentic memory architectures**, **world models for AI agents**, and 
 - **[Causal Canvas](https://www.casualcanvas.org/)** — Visual editor for causal models (DAGs, ADMGs, PAGs, causal loop diagrams) backed by a JSON-native format (CausalJSON) and a CLI. Includes a causal linter that catches collider adjustment, invalid instruments, and unidentifiable latents, plus reproducible SVG/PDF figure generation for CI. Fully local, no telemetry. Apache-2.0 — [source on GitHub](https://github.com/Volland/causal-canvas)
 - **[Hybrid Graph RAG (Rust)](https://github.com/Volland/ladybug-rag-rs)** — Four retrieval modes in one query: vector search + graph traversal + PageRank + community detection. +109% on multi-hop questions vs vector-only RAG
 - **[Hybrid Graph RAG (Python)](https://github.com/Volland/ladybug-rag)** — Reference implementation of Hybrid GraphRAG with LadybugDB
+- **[tiramemsu](https://github.com/Volland/tiramemsu)** — Bitemporal statement-graph store on redb and SQLite: statements carry transaction and valid time, with vectors and reasoning on board, for agent memory that knows when a fact was true and when it was recorded. Apache-2.0 — [tiramemsu.com](https://tiramemsu.com)
+- **[LeanRDF](https://github.com/Volland/rdf-lean)** — Native RDF 1.1 model and entailment semantics in Lean 4, with Elpi search and a verified certificate checker. Apache-2.0
+- **[lean-elpi](https://github.com/Volland/lean-elpi)** — λProlog (Elpi) inside Lean 4: write tactics, commands and proof search as logic programs, share types with Lean both ways, and get kernel-checked proofs. Apache-2.0
+- **[typedb-lean](https://github.com/Volland/typedb-lean)** — TypeDB 3 client for Lean 4: compile-time checked transactions, typed TypeQL, batched decoding, a lightweight ORM and migrations. Apache-2.0
+- **[agent.lean](https://github.com/Volland/agent.lean)** — Tiny, verifiable agent library in Lean 4 that compiles to C: LLM agents with tools and provable policies for embedded Linux, iOS and Android. Apache-2.0
+- **[Typed Graph](https://github.com/Volland/typedgraph)** — Obsidian plugin for a typed, signed, labeled property graph: openCypher queries, edge properties, LadybugDB mirror, vector search, GraphRAG and an MCP server. MIT licensed — [typedgraph.org](https://typedgraph.org)
 
 ### 📚 Books
 
@@ -43,7 +49,7 @@ I write the *Age AI* book series on [Leanpub](https://leanpub.com/u/vpavlyshyn):
 
 ### 🛠️ Tech Stack
 
-**Primary:** Rust, TypeScript, React, JavaScript  
+**Primary:** Rust, TypeScript, React, JavaScript, Lean 4  
 **JVM:** Kotlin, Scala, Java, Clojure  
 **Systems & Crypto:** Rust, Zig, C  
 **Formative:** Smalltalk (Pharo, Cuis, Self), COBOL — these shaped how I think about objects, agents, and message-passing
